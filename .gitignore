@@ -1,4 +1,7 @@
 zestimate/env.py
-
+zestimate/properties_2016.csv
 .DS_Store
+*.csv
+*.xlsx
+zestimate/.DS_Store
 
